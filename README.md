@@ -18,6 +18,10 @@
 -pengurangan
 ![pengurangan](https://user-images.githubusercontent.com/57535407/72661200-17b45680-3a0a-11ea-99af-1e1acdd26ece.jpg)
 
+- error
+![error](https://user-images.githubusercontent.com/57535407/72661453-d6717600-3a0c-11ea-911d-fd194a5d2c6c.jpg)
+
+
 # cara menjalankan web ini
 
 - git clone https://github.com/adimarbun/kalkulator-sederhana.git
