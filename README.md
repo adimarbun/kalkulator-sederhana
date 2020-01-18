@@ -17,3 +17,11 @@
 
 -pengurangan
 ![pengurangan](https://user-images.githubusercontent.com/57535407/72661200-17b45680-3a0a-11ea-99af-1e1acdd26ece.jpg)
+
+# cara menjalankan web ini
+
+- git clone https://github.com/adimarbun/kalkulator-sederhana.git
+
+- npm install 
+
+- npm start
