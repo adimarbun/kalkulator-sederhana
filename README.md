@@ -1,4 +1,4 @@
-# Web Kalkulator Sederhana
+# Web Kalkulator Sederhana (React Js)
 - Terdapat 3 buah input number yang masing-masing memiliki checklist di sampingnya
 - Terdapat 4 buah tombol operator yatu: tambah, kurang, kali, bagi.
 - Bila salah satu tombol operator di klik, maka akan memunculkan angka hasil operasi value dari input-input yang di checklist.
